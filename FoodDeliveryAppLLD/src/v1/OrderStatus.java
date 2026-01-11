@@ -1,0 +1,6 @@
+package v1;
+
+public enum OrderStatus {
+	CREATED, PAID, ACCEPTED, PREPARING, READY, OUT_FOR_DELIVERY, 
+	DELIVERED, CANCELLED
+}
